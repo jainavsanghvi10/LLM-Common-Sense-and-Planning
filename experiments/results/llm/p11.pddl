@@ -1,0 +1,27 @@
+Sure! Here is an optimal plan to solve the problem:
+
+1. Unstack b5 from b6: unstack(b5, b6)
+2. Put down b5 on the table: putdown(b5)
+3. Pickup b3: pickup(b3)
+4. Stack b3 on top of b5: stack(b3, b5)
+5. Unstack b7 from b3: unstack(b7, b3)
+6. Pickup b8: pickup(b8)
+7. Stack b8 on top of b7: stack(b8, b7)
+8. Put down b8 on the table: putdown(b8)
+9. Pickup b4: pickup(b4)
+10. Stack b4 on top of b2: stack(b4, b2)
+11. Pickup b6: pickup(b6)
+12. Stack b6 on top of b4: stack(b6, b4)
+13. Pickup b5: pickup(b5)
+14. Stack b5 on top of b6: stack(b5, b6)
+15. Pickup b2: pickup(b2)
+16. Stack b2 on top of b1: stack(b2, b1)
+17. Pickup b4: pickup(b4)
+18. Unstack b4 from b2: unstack(b4, b2)
+19. Put down b4 on the table: putdown(b4)
+20. Pickup b8: pickup(b8)
+21. Stack b8 on top of b7: stack(b8, b7)
+22. Pickup b1: pickup(b1)
+23. Stack b1 on top of b8: stack(b1, b8)
+
+This plan will move the blocks as desired, with b1 on top of b8, b2 on top of b3, b3 on top of b5, b4 on top of b2, and b8 on top of b7.
